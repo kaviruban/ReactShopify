@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactShopify/static/css/main.f6c5618d.css",
+    "main.js": "/ReactShopify/static/js/main.77ec54a5.js",
+    "static/media/MensStayGroovyWhiteTShirt.jpg": "/ReactShopify/static/media/MensStayGroovyWhiteTShirt.a688371118dc178c7223.jpg",
+    "index.html": "/ReactShopify/index.html",
+    "main.f6c5618d.css.map": "/ReactShopify/static/css/main.f6c5618d.css.map",
+    "main.77ec54a5.js.map": "/ReactShopify/static/js/main.77ec54a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6c5618d.css",
+    "static/js/main.77ec54a5.js"
+  ]
+}
